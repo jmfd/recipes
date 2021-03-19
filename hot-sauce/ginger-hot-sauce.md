@@ -1,7 +1,6 @@
 # Ginger Hot Sauce
 
-Jonathan Deutsch
-May 2019
+by Jonathan Deutsch, May 2019
 
 
 ### Overview
@@ -42,4 +41,4 @@ This is an orange sauce and should be thick and slightly sweet due to the carrot
 
 ### Instructions
 
-Blend all ingredients together.
+1. Blend all ingredients together.

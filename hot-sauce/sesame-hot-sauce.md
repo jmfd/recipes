@@ -1,7 +1,6 @@
 # Sesame Hot Sauce
 
-Jonathan Deutsch
-May 2019
+by Jonathan Deutsch, May 2019
 
 
 ### Overview
@@ -43,6 +42,6 @@ This is a chunky hot sauce with a strong toasted sesame flavor.
 
 ### Instructions
 
-Toast and crush the sesame seeds in a mortar and pestle.
-Cook the Garlic.
-Blend ingredients.
+1. Toast and crush the sesame seeds in a mortar and pestle.
+2. Cook the Garlic.
+3. Blend ingredients.

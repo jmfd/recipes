@@ -1,12 +1,12 @@
 # Blackberry Habanero Hot Sauce
 
-Jonathan Deutsch
-May 2019
+by Jonathan Deutsch, May 2019
 
 
 ### Overview
 
 Also called "Woo Sauce," specifically formulated to go well with beef.
+
 It should come out as a deep purple color - do not use green peppers as a substitute.
 
 
@@ -42,5 +42,5 @@ It should come out as a deep purple color - do not use green peppers as a substi
 
 ### Instructions
 
-Blend all ingredients together.
-Let cook at the lowest setting for 30 minutes, and then strain so it is a smooth/thin sauce.
+1. Blend all ingredients together.
+2. Let cook at the lowest setting for 30 minutes, and then strain so it is a smooth/thin sauce.
